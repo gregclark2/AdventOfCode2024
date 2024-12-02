@@ -1,8 +1,7 @@
-package Day1;
+package Day1Java;
 
 import java.io.FileReader;
 
-import java.security.Key;
 import java.util.*;
 
 import static java.util.Collections.sort;
