@@ -1,7 +1,7 @@
 
 
 def main():
-    infile = open('../../Day1_1input.txt')
+    infile = open('../../resources/Day1_1input.txt')
     leftList = []
     rightList = []
 

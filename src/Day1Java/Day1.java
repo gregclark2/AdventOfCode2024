@@ -6,7 +6,7 @@ import java.util.*;
 
 import static java.util.Collections.sort;
 
-public class Day1Src {
+public class Day1 {
     public static void main(String[] args) {
 
 
@@ -20,7 +20,7 @@ public class Day1Src {
         int result2 = 0;
 
         try {
-            Scanner input = new Scanner(new FileReader("Day1_1input.txt"));
+            Scanner input = new Scanner(new FileReader("../resources/Day1_1input.txt"));
             while (input.hasNextLine()) {
                 String line = input.nextLine();
                 String[] inBufferArray = line.split("\\s+");
